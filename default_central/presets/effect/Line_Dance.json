@@ -1,0 +1,12 @@
+{
+    "params":{
+        "edgedetection":{
+            "enabled":"true",
+            "value":"true"
+        },
+        "mirrorquad":{
+            "enabled":"true",
+            "value":"true"
+        }
+    }
+}

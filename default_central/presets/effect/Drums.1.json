@@ -1,0 +1,8 @@
+{
+    "params":{
+        "edgedetection":{
+            "enabled":"true",
+            "value":"true"
+        }
+    }
+}

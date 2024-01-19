@@ -1,0 +1,10 @@
+{
+  "generatesound": "false",
+  "generatevisuals": "true",
+  "publishcursor": "false",
+  "publishmidi": "false",
+  "natsconf": "natsalone.conf",
+  "presetspath": "%LOCALAPPDATA%\\Montage\\presets;%MONTAGE%\\presets",
+  "debug": "gen,osc,resolume",
+  "this line should not end with a comma": 0
+}
